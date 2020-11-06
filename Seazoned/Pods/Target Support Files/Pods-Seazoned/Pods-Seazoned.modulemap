@@ -1,0 +1,6 @@
+framework module Pods_Seazoned {
+  umbrella header "Pods-Seazoned-umbrella.h"
+
+  export *
+  module * { export * }
+}

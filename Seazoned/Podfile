@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'Seazoned' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+pod 'Alamofire'
+	pod 'SwiftyJSON'
+	pod 'ReachabilitySwift'
+	pod 'Kingfisher'
+	pod 'GooglePlacesSearchController'
+	pod 'SVProgressHUD'
+	pod 'FacebookCore'
+pod 'Firebase/Storage'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Database'
+  pod 'Firebase/RemoteConfig'
+  pod 'JSQMessagesViewController'
+  pod 'Firebase/Messaging'
+   pod 'CRNotifications'
+  pod 'Firebase/Core'
+  pod "WARangeSlider"
+pod 'SANotificationViews'
+pod 'GooglePlaces'
+pod 'GooglePlacePicker'
+pod 'GoogleMaps'
+pod "ImageSlideshow/Kingfisher"
+pod 'FacebookLogin'
+pod ‘Google/SignIn’
+  # Pods for Seazoned
+
+end
